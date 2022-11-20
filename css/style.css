@@ -136,7 +136,7 @@ height: 50px;
 /*Intro styles start*/
 .intro-main {
   min-height: 100vh;
-  background: url('/img/alberta.jpg') no-repeat center;
+  background: url('../img/alberta.jpg') no-repeat center;
   background-size: cover;
   padding-top: 263px;
   padding-bottom: 223px;
